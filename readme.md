@@ -4,33 +4,39 @@
   <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
 </p>
 
-Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+Bem-vindo ao **JSGame Detona Ralph!**  
+Este é um jogo desenvolvido durante o **Bootcamp da Digital Innovation One (DIO)** como parte de um desafio prático de **HTML, CSS e JavaScript**.
 
-### Tecnologias Utilizadas
-
-- HTML5 e CSS3 para a estrutura e aparência do jogo.
-- JavaScript para a lógica de programação e interatividade.
-- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
-
-### Funcionalidades Incríveis
-
-- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
-
-### Como Jogar
-
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
-
-### Contribuição
-
-Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
-
-### Créditos
-
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+O objetivo do projeto é reproduzir o jogo apresentado em aula e praticar os conceitos de lógica, eventos e interatividade no navegador.
 
 ---
 
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+## Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript
+
+---
+
+## Como rodar o projeto
+
+1. Clone este repositório para sua máquina local:  
+
+git clone https://github.com/Talinne/jsgame-detona-ralph.git
+
+
+2. Abra a pasta do projeto no VS Code.  
+3. Abra `index.html` com Live Server ou no navegador.  
+4. Jogue e verifique que tudo está funcionando.
+
+---
+
+## Créditos
+
+Projeto original e material didático por **Digital Innovation One (DIO)**.  
+Repositório original: https://github.com/digitalinnovationone/jsgame-detona-ralph
+
+---
+
+Reproduzido e executado por **Talinne Antunes** como parte das atividades do Bootcamp.
